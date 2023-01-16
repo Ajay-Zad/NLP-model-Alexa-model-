@@ -4,4 +4,4 @@ This project is based on speech recognization. This is simple Alexa based model 
 3) Hey Alexa, play music
 and many more.
 
-This project is stil under process and is yet to be completed.
+This project is still under process and is yet to be completed.
