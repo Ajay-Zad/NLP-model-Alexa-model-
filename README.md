@@ -3,5 +3,3 @@ This project is based on speech recognization. This is simple Alexa based model 
 2) Hey Alexa, what is my current location ??
 3) Hey Alexa, play music
 and many more.
-
-This project is still under process and is yet to be completed.
